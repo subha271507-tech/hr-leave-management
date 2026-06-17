@@ -3,7 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "scripts": {
+  "homepage": "https://subha271507-tech.github.io/hr-leave-management",
+
+"scripts": {
     "start": "vite --open",
     "test": "echo \"No tests specified\" && exit 0",
     "dev": "vite --open",
@@ -11,7 +13,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
-  },
+},
   "dependencies": {
     "react": "^19.2.6",
     "react-dom": "^19.2.6"
